@@ -1,6 +1,6 @@
 ---
 title: "Apresentação da disciplina"
-subtitle: "Logística - EPC"  
+subtitle: "Logística - ADM"  
 author: 
   - "Renata Oliveira"
 date: '18/10/2021'
@@ -145,9 +145,9 @@ Por meio desta disciplina, os alunos desenvolverão competências para:
 
 ## Planejamento de encontros síncronos
 
-Os encontros síncronos acontecerão nas **segundas-feiras**, de **19:00 às 20:30h**. Acontecerão na plataforma `Teams`. 
+Os encontros síncronos acontecerão nas **segundas-feiras**, de **20:40h às 22:10**. Acontecerão na plataforma `Teams`. 
 
-Vocês poderão acessar o canal da disciplina pelo [link](https://teams.microsoft.com/l/team/19%3a7C-HRfZ6jj8HwXf4p4T43lXROeBF2iERlTjicYOtU0E1%40thread.tacv2/conversations?groupId=5da93f1b-ae42-4d98-b553-d0b5d8b130ee&tenantId=ef9d67f2-bd3f-4e0c-84ba-3ffc81ab1c83).
+Vocês poderão acessar o canal da disciplina pelo [link](https://teams.microsoft.com/l/team/19%3aiWJRMuk-g676YbdL85v7jm_Up-mNfI8vxF3ymvO2uRE1%40thread.tacv2/conversations?groupId=13230d26-a870-45e8-86c8-ad9f6b0fd90b&tenantId=ef9d67f2-bd3f-4e0c-84ba-3ffc81ab1c83).
 
 ---
 
