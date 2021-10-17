@@ -228,7 +228,7 @@ Turma Virtual do SIGAA para postagens de conteúdos e outras comunicações.
 
 ## Comunicação
 
-Toda comunicação individual com a docente deverá acontecer por meio do email institucional do docente, deve conter no campo "assunto" o texto `<Log-epc>` e deve ser assinada com seu nome completo. Por favor, utilize o email institucional para comunicação com o docente: renataoliveira@cefetmg.br
+Toda comunicação individual com a docente deverá acontecer por meio do email institucional do docente, deve conter no campo "assunto" o texto `<Log-adm>` e deve ser assinada com seu nome completo. Por favor, utilize o email institucional para comunicação com o docente: renataoliveira@cefetmg.br
 
 Se o seu email não contempla alguma questão pessoal/individual, mas sim questionamentos e dúvidas sobre as atividades deste curso, por favor:
 
@@ -276,6 +276,8 @@ Os estudantes que forem considerados em violação da política de integridade a
 1. **Composição dos grupos de trabalho:** Cada grupo será composto por **três a quatro alunos**. Esse grupo deve se manter para realização de todos os projetos. 
 
 2. **Planejamento da execução dos trabalhos:** Definir um cronograma a priori, contemplando entregas parciais alinhadas com os projetos e acompanhar as etapas de execução. 
+
+3. As atividades devem, necessariamente, acontecer de **forma colaborativa**. Para tanto, será criada uma wiki para cada grupo/atividade no Moodle/AVA institucional. Assim, será possível acompanhar a contribuição de cada estudante no desenvolvimento dos trabalhos. 
 
 ---
 
